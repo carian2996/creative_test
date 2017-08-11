@@ -12,7 +12,7 @@ August 11, 2017
 
 ### 1.1. Mean and median difference
 
-The following script represents a general solution. To review the exact query, you can access [here](q1.sql).
+The following script represents a general solution. To review the exact query, you can access [here](https://github.com/carian2996/creative_test/blob/master/queries.sql).
 
 
 ``` SQL
@@ -32,7 +32,7 @@ WHERE
 
 ### 1.2. Rate of successful rides
 
-The following script represents a general solution. To review the exact query, you can access [here](q1.sql).
+The following script represents a general solution. To review the exact query, you can access [here](https://github.com/carian2996/creative_test/blob/master/queries.sql).
 
 ``` SQL
 SELECT
@@ -150,7 +150,7 @@ In order to evaluate the performance of the new design (according to the success
 
 The purpose of this exercise is create a model that allow us to predict which driver signups are most likely to start driving.
 
-For a detailed report of modeling, you can check [this]('data_analysis_problem.ipynb') jupyter notebook.
+For a detailed report of modeling, you can check [this](https://github.com/carian2996/creative_test/blob/master/data_analysis_problem.ipynb) jupyter notebook.
 
 ---- 
 
